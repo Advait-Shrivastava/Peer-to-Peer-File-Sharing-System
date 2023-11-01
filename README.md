@@ -2,7 +2,7 @@
 A user-friendly multi-threaded file-sharing system developed using socket programming, designed to facilitate seamless and concurrent file-sharing among connected peers. It allows users to share, download, and delete files within their designated groups. Downloads occur concurrently, with files being retrieved in parts from multiple peers simultaneously.
 
 
-![Image](https://github.com/Advait-Shrivastava/Peer-to-Peer-File-Sharing-System/assets/59224726/e35840ef-075c-433c-93c6-a85bf75262ae)
+![Image](https://github.com/Advait-Shrivastava/Peer-to-Peer-File-Sharing-System/assets/59224726/34ab1157-b58b-47cd-b4d0-ede639ca3ffb)
 
 ## Description
 
